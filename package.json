@@ -1,0 +1,10 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "1979077008 <50604537+1979077008@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
